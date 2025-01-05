@@ -41,7 +41,7 @@ Basic knowledge of UIKit and Swift
 Setup Instructions
 
 Clone the repository:
-git clone https://github.com/adityaraj564/Cricketers
+git clone https://github.com/adityaraj564/Cricketers.git
 Open the project in Xcode:
 cd ios-players-list
 open PlayersListApp.xcodeproj
